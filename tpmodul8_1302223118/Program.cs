@@ -1,6 +1,4 @@
-﻿using System;
-using System.Text.Json;
-using tpmodul8_1302223118;
+﻿using tpmodul8_1302223118;
 
 internal class Program
 {
